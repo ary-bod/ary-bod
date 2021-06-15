@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" height="125px" src="https://media0.giphy.com/media/Tk80oT8vrGZiH8Uq1u/giphy.gif" />
 <img align="right" alt="GIF" height="125px" src="https://media2.giphy.com/media/KztT2c4u8mYYUiMKdJ/giphy.gif" />
 
-- 🌱 I’m currently working on SGB Team Reg. Bekasi.
+- 🌱 Developing tukarcatatan.com ❤
 - 📌 Learning about Web Development, Cryptocurrency, and many things.
 - 💬 You can ask me about anything
 - 📫 How to reach me: [Telegram](https://t.me/ary_bod)
